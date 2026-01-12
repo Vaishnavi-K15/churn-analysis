@@ -1,8 +1,11 @@
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](https://public.tableau.com/app/profile/vaishnavi.kurelli/viz/CustomerRetentionRevenueImpactDashboard/Dashboard1)
+
+
 # Customer Retention & Revenue Impact Analysis (SaaS Case Study)
 
 ## Executive Summary
 
-See `insights/Customer_Retention_Revenue_Insights.pdf` for leadership-ready findings, revenue impact, and retention recommendations.
+See `insights/Customer_Retention_Revenue_Insights_Visual.pdf` for leadership-ready findings, revenue impact, and retention recommendations.
 
 ---
 
@@ -119,6 +122,11 @@ Dashboard file:
 ```
 dashboard/customer_churn_dashboard.twbx
 ```
+
+## Live Tableau Dashboard
+
+🔗 View Interactive Dashboard:  
+https://public.tableau.com/app/profile/vaishnavi.kurelli/viz/CustomerRetentionRevenueImpactDashboard/Dashboard1
 
 ---
 
